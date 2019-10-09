@@ -12,6 +12,6 @@ body {
     height: 100px;
 }
 
-.square:nth-child(odd) {
+.square:nth-child(2n) {
     background-color: orange;
 }
